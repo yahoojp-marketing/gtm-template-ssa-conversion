@@ -16,5 +16,9 @@ homepage: "https://www.lycbiz.com/jp/service/yahoo-ads/"
 documentation: "https://ads-help.yahoo-net.jp/s/article/H000045014?language=ja"
 versions:
   # Latest version
+  - sha: 00ba4a04715f8d5dd3961f8bc2421d35f4d97774
+    changeNotes: Fix template name and description
+
+  # Older versions
   - sha: a566f884cbb166402744112060f66db67b373f8a
     changeNotes: Initial release.
